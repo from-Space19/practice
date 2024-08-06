@@ -1,0 +1,11 @@
+.container{
+    margin:auto;
+    margin-top: 3%;
+    width: 40%;
+    border-color: goldenrod;
+    border-style:outset;
+    border-width: 5px;
+    /* border-color: black; */
+    border-radius: 10px;
+    padding:15px;
+}

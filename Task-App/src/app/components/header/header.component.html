@@ -1,0 +1,8 @@
+<header>
+    <h3>{{ name }}</h3>
+    <app-buttons  
+    color="{{showAddTask ? 'red' : 'green'}}" 
+    text="{{showAddTask ? 'Close' : 'Add'}}" 
+    (onButtonEvent)="addTaskButton()" ></app-buttons>
+
+</header>

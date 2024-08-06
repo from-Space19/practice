@@ -1,0 +1,30 @@
+.form-control{
+    color:rgb(249, 244, 92);
+}
+
+input[type=checkbox]{
+    width:10%;
+    margin-bottom: 3%;
+}
+
+input[type=text]{
+    width:100%;
+    height: 30px;
+    padding:2px;
+    margin:2% ;
+    box-sizing: border-box;
+    border: solid rgb(193, 43, 10) 3px;
+    border-radius: 5px;
+    
+}
+
+input[type=submit]{
+    background-color: rgb(255, 47, 203);
+    width:60%;
+    height: 30px;
+    border: solid white 3px;
+    border-radius: 3px;
+    margin-left: 20%;
+    margin-bottom:5%;
+    
+}
